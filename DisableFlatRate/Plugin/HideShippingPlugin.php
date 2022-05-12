@@ -2,7 +2,7 @@
 /**
  * Created By : Rohan Hapani
  */
-namespace Zestardtech\DisableFlatRate\Plugin;
+namespace ModuleName\DisableFlatRate\Plugin;
 
 class HideShippingPlugin {
 
